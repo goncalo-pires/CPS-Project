@@ -1,0 +1,3 @@
+[submodule "src/ecpy"]
+	path = src/ecpy
+	url = https://github.com/elliptic-shiho/ecpy
